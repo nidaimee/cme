@@ -12446,12 +12446,11 @@ html.boxed .slider-container {
 	border-radius: 2px;
 	display: inline-block;
 	float: left;
-	font-size: 0.6em;
+	font-size: 0.9em;
 	font-weight: 600;
 	letter-spacing: 0;
 	margin: 8px -2px -15px 0px;
 	padding: 2px 12px;
-	text-transform: uppercase;
 	z-index: 2;
 	line-height: 2.3;
 }
